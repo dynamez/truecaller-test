@@ -65,7 +65,7 @@ class MainViewModelTest {
             this
         ) {
             MainState()
-            containerHost.fetchContent()
+            containerHost.onFetchContentClicked()
 
             //Assert
             expectState { copy(fetchStatus = Status.Loading) }
