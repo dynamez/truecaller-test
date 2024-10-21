@@ -1,0 +1,34 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Truecaller Test App</string>
+
+    <!-- Buttons -->
+    <string name="fetch_content">Fetch Content</string>
+    <string name="retry">Retry</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Messages -->
+    <string name="fetching_content">Fetching content...</string>
+    <string name="error_fetching_content">Error fetching content: %1$s</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_data">Error loading data.</string>
+    <string name="no_characters_found">No characters found.</string>
+    <string name="no_words_found">No words found.</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+
+    <!-- Task Titles -->
+    <string name="task_1_title">Task 1: 15th Character</string>
+    <string name="task_2_title">Task 2: Every 15th Character</string>
+    <string name="task_3_title">Task 3: Word Count</string>
+
+    <!-- Task Contents -->
+    <string name="task_1_content">15th Character: %1$s</string>
+    <string name="index_character">Index %1$d: %2$s</string>
+    <string name="page_indicator">Page %1$d of %2$d</string>
+
+    <!-- General -->
+    <string name="unknown_error">Unknown Error</string>
+    <string name="unknown">Unknown</string>
+</resources>
